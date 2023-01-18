@@ -16,7 +16,8 @@ I am assuming python is already installed and also pyinstaller. If not, you can 
 
 > pyinstaller --onefile filename.py
 
-This creates couple of folders in the directory. Open dist which is one of the folder, and open filename.exe to run the py script directly. Share the home folder which has py script, the new folder etc. to anyone for them to play the game.
+This creates couple of folders in the directory. Open dist which is one of the folder, and open filename.exe to run the py script directly.
+Share the home folder which has py script, the new folder etc. to anyone for them to play the game.
 
 To try my game
 ------------------
