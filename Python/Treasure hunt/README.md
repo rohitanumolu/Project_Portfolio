@@ -25,8 +25,7 @@ The clues and map would make no sense for you, so I am providing you the directi
 > { (1 - s), (2 - w,d,w,d), (3 - a,w,w,a,a,a,a,a,a,w}, (4 - s,d,d,d,d,d,d,s,s,s,d), (5 - a,w,w,w,a,a,a,w), (6 - s,d,d,d,d), (7 - a,a,a,a,s,a),
  (8 - d,w,d,d,d,d,d,d,d), (9 - a,a,a,a,a,a,a,a,a,s), (10 - w,d,d,d,d,s,a), (11 - d,w,d,d,d,d,d,w,d), (12 - a,s,a,a,a,s) }
  
-Eached ordered pair shows the clue and direction for it. 
-
+Each ordered pair shows the clue number and directions to follow through for it. 
 
 Passcode - lizzy
 
